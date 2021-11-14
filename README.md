@@ -1,19 +1,12 @@
 # Tester
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Cwiczenia z gita - galezie
+> Live demo [widoczny_link](https://www.wp.pl).
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+## Spis treści 
+* [Informacje ogolne o projekcie](#general-information)
+* [Wykorzystane technologie](#technologies-used)
+* [Funkcjonalnosci](#features)
+* [Kontakt z twórcą skryptu](#contact)
 
 
 ## General Information
