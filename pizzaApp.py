@@ -1,4 +1,4 @@
-# changed to rectagular pizza
+# changed to rectagular pizza.
 
 pizza1_price = float(input('Cena pizzy 1: '))
 pizza1_a = float(input('Bok krótszy pizza1:'))
