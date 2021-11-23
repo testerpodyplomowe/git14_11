@@ -1,3 +1,4 @@
+# my own change
 # changed to rectagular pizza
 
 pizza1_price = float(input('Cena pizzy 1: '))
